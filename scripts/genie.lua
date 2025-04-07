@@ -1285,7 +1285,7 @@ configuration { "mingw*" }
 		if _OPTIONS["osd"]~="sdl"
 		then
 			linkoptions {
-				"-static",
+--				"-static",
 			}
 		end
 		linkoptions {
