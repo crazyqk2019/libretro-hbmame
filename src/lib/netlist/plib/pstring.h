@@ -17,6 +17,7 @@
 #include <string>
 #include <type_traits>
 #include <ostream>
+#include <cstdint>
 
 // ----------------------------------------------------------------------------------------
 // pstring: semi-immutable strings ...
